@@ -6,6 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public enum element { Fire, Water, Earth, Wind}
 
+
     // Start is called before the first frame update
     void Start()
     {
